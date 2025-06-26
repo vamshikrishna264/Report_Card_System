@@ -1,6 +1,6 @@
 # # 📝 Report Card System
 
-A simple console-based C++ application to manage student report cards. Features include adding, displaying, editing, deleting student records, and generating overall report cards.
+A simple console-based C# application to manage student report cards. Features include adding, displaying, editing, deleting student records, and generating overall report cards.
 
 ---
 
